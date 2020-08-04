@@ -1,0 +1,13 @@
+subid	session-id	stimulus-sequence	flanker-sequence	inscapes-stimuli	movie-stimuli
+0031127	2	Flanker-Rest-Movie-Inscapes	003	Inscapes_03.mp4	WallE_10m_fs.mp4
+0031127	3	Rest-Inscapes-Flanker-Movie	002	Inscapes_02.mp4	AFewGoodMen_10m_fs.mp4
+0031127	4	Movie-Flanker-Inscapes-Rest	001	Inscapes_01.mp4	Matrix_10m_fs.mp4
+0031127	5	Inscapes-Movie-Rest-Flanker	003	Inscapes_03.mp4	WallE_10m_fs.mp4
+0031127	6	Movie-Rest-Inscapes-Flanker	002	Inscapes_02.mp4	AFewGoodMen_10m_fs.mp4
+0031127	7	Rest-Flanker-Movie-Inscapes	001	Inscapes_01.mp4	Matrix_10m_fs.mp4
+0031127	9	Inscapes-Movie-Flanker-Rest	003	Inscapes_03.mp4	WallE_10m_fs.mp4
+0031127	10	Flanker-Inscapes-Rest-Movie	002	Inscapes_02.mp4	AFewGoodMen_10m_fs.mp4
+0031127	11	Inscapes-Rest-Flanker-Movie	001	Inscapes_01.mp4	Matrix_10m_fs.mp4
+0031127	12	Rest-Movie-Inscapes-Flanker	003	Inscapes_03.mp4	WallE_10m_fs.mp4
+0031127	13	Flanker-Inscapes-Movie-Rest	002	Inscapes_02.mp4	AFewGoodMen_10m_fs.mp4
+0031127	14	Movie-Flanker-Rest-Inscapes	001	Inscapes_01.mp4	Matrix_10m_fs.mp4
